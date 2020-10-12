@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: phptest.edureka.edureka_cert_project.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.138 s - in phptest.edureka.edureka_cert_project.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.303 s - in phptest.edureka.edureka_cert_project.AppTest

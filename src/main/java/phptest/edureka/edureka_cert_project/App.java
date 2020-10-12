@@ -14,7 +14,7 @@ public class App
     {
     	 System.setProperty("webdriver.chrome.driver", "/opt/google/chromedriver/bin/chromedriver");
          WebDriver driver=new ChromeDriver();
-         driver.get("http://master/index.php");
+         driver.get("http://slave.edureka.com:8080/index.php");
          //driver.findElement(By.name("email")).sendKeys("edureka");
          driver.findElement(By.id("About Us")).click();
          String aboutus=driver.findElement(By.id("PID-ab2-pg")).getText();
